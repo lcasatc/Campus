@@ -1,0 +1,42 @@
+.content {
+  background-color: #EAB339;
+}
+
+.center {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.title {
+  color: #053F33;
+  font-family: "Arial Black";
+  font-stretch: condensed;
+  font-size: 32px;
+}
+
+.logo {
+  background-color: #EAB339;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  display: block;
+  width:90%;
+  height: 25%;
+}
+
+.toolbar-background {
+  background-color: #EAB339;
+}
+
+.btnProcurar {
+  top: 100px;
+  left: 13px;
+  width: 90%;
+  height: 50px;
+}
+
+::-webkit-scrollbar{
+display:none;
+}
